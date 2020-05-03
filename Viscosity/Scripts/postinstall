@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# Installs the Viscosity helper (https://www.sparklabs.com/forum/viewtopic.php?t=1633)
+#
+/Applications/Viscosity.app/Contents/MacOS/Viscosity -installHelperTool YES
