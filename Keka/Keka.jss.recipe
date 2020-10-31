@@ -9,7 +9,7 @@
 		<key>Input</key>
 		<dict>
 			<key>CATEGORY</key>
-			<string>Applications</string>
+			<string>Productivity</string>
 			<key>GROUP_NAME</key>
 			<string>%NAME%-update-smart</string>
 			<key>GROUP_TEMPLATE</key>
@@ -21,7 +21,7 @@
 			<key>POLICY_TEMPLATE</key>
 			<string>PolicyTemplate.xml</string>
 			<key>SELF_SERVICE_DESCRIPTION</key>
-			<string></string>
+			<string>The macOS file archiver. Store more, share with privacy</string>
 			<key>SELF_SERVICE_ICON</key>
 			<string>Keka.png</string>
 		</dict>
